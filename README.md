@@ -4,7 +4,7 @@ Here you can find all of my code from my redbull page. This webpage was made usi
 
 ## Links
 
-Visit the page [here](https://musing-lichterman-3d0cc7.netlify.app/)
+Visit the page [here](https://musing-lichterman-3d0cc7.netlify.app/)\
 You can also find the video where I explain the project [here](https://youtu.be/lkTfoW0NCrY)
 
 ## Contact
